@@ -44,7 +44,7 @@
     "url": "https://github.com/yoniaiz/react-rbac"
   },
   "peerDependencies": {
-    "react": "^17.0.2"
+    "react": "^18.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.16.5",
